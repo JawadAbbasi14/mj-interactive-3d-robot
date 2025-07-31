@@ -1,57 +1,64 @@
-Here's a polished, elite-level `README.md` for your first repo (Spline 3D Bot):
+Here's your **canvas-style README.md** with clear visual boundaries and section separation:
 
 ```markdown
-# MJ's Spline 3D Robot Showcase 🤖✨
+╔════════════════════════════════════════════════╗
+║  ███╗   ███╗ █████╗      ██████╗ ██████╗ ██████╗  ║
+║  ████╗ ████║██╔══██╗    ██╔════╝██╔═══██╗██╔══██╗ ║
+║  ██╔████╔██║███████║    ██║     ██║   ██║██████╔╝ ║
+║  ██║╚██╔╝██║██╔══██║    ██║     ██║   ██║██╔══██╗ ║
+║  ██║ ╚═╝ ██║██║  ██║    ╚██████╗╚██████╔╝██║  ██║ ║
+║  ╚═╝     ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ║
+╚════════════════════════════════════════════════╝
+████████████████  LIVE DEMO  ████████████████
+[![Demo](https://img.shields.io/badge/🚀_View_Live-00D4FF?style=flat-square)](https://jawadabbasi14.github.io/mj-spline-3d-robot/)
+[![Code](https://img.shields.io/badge/💻_Source_Code-black?style=flat-square)](https://github.com/jawadabbasi14/mj-spline-3d-robot)
 
-[![Live Demo](https://img.shields.io/badge/DEMO-LIVE-brightgreen?style=for-the-badge)](https://jawadabbasi14.github.io/mj-spline-3d-robot/)
-[![GitHub](https://img.shields.io/badge/VIEW_CODE-GITHUB-black?style=for-the-badge&logo=github)](https://github.com/jawadabbasi14/mj-spline-3d-robot)
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ PROJECT SHOWCASE ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+┌──────────────────────────────────────────────────────┐
+│  🔮 Futuristic 3D Robot Model (Spline Designed)      │
+│  🎮 Interactive Tech Stack Showcase                  │
+│  🌌 Cyberpunk UI with Animated Neon Effects          │
+└──────────────────────────────────────────────────────┘
 
-> A futuristic 3D robot model built with **Spline**, featuring advanced animations and cyberpunk aesthetics.
+▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ KEY FEATURES ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 
-![Preview](https://i.imgur.com/your-screenshot-url.jpg) *(Add screenshot link)*
+████████████████ TECH STACK ████████████████
+┌───────────────┬─────────────────────────────────────┐
+│ Spline        │ Professional 3D Modeling            │
+│ HTML5/CSS3    │ Advanced Animations & Effects       │
+│ GitHub Pages  │ Instant Zero-Cost Deployment        │
+└───────────────┴─────────────────────────────────────┘
 
-## 🔥 Key Features
-- **Immersive 3D Model** - High-quality robot design with smooth animations
-- **Cyberpunk UI** - Neon gradients, animated borders, and dark mode
-- **Responsive Design** - Works flawlessly on all devices
-- **Tech Showcase** - Highlights 3D development skills with interactive cards
-
-## 🛠️ Built With
-- [Spline](https://spline.design/) - 3D modeling & animation
-- HTML5/CSS3 - Custom UI with advanced animations
-- GitHub Pages - Instant deployment
-
-## 🚀 Quick Start
-1. **Live Demo**:  
-   → [View Live Project](https://jawadabbasi14.github.io/mj-spline-3d-robot/)
-
-2. **Local Setup**:
-   ```bash
-   git clone https://github.com/jawadabbasi14/mj-spline-3d-robot.git
-   cd mj-spline-3d-robot
-   open index.html
-   ```
-
-## 🌟 Special Highlights
-✔ **Professional Portfolio-Ready**  
-✔ **60FPS Smooth Animations**  
-✔ **LinkedIn Integration**  
-
----
-
-📩 **Contact**: [LinkedIn](https://www.linkedin.com/in/mjabbasi-dev) | ✨ **More Projects**: [GitHub](https://github.com/jawadabbasi14)
+████████████████ GET STARTED ████████████████
+```bash
+# Clone & Run Locally
+git clone https://github.com/jawadabbasi14/mj-spline-3d-robot.git
+cd mj-spline-3d-robot && open index.html
 ```
 
-### Why This Works:
-1. **Badges** - Professional visual markers
-2. **Clear Sections** - Features/Tech/Setup separated
-3. **Links Prominent** - Demo + code visible immediately
-4. **Mobile-Friendly** - Clean formatting for all devices
-5. **Call-to-Action** - Contact links at bottom
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ SCREENSHOTS ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+![Robot Preview](https://i.imgur.com/YOUR_SCREENSHOT.jpg) *(Add URL)*
 
-For maximum impact:
-1. Add a screenshot (use [Imgur](https://imgur.com/))
-2. Update URLs with your exact links
-3. Keep it updated when adding new features
+████████████████ CONNECT ████████████████
+📩 [LinkedIn](https://linkedin.com/in/mjabbasi-dev) | 
+💻 [GitHub](https://github.com/jawadabbasi14)
 
-Want any refinements? 😊
+╔════════════════════════════════════════════════╗
+║            🚀 BUILT BY MJ ABBASI 🚀             ║
+║    "Engineering immersive digital experiences"  ║
+╚════════════════════════════════════════════════╝
+```
+
+### **Canvas Guide**:
+1. **Header/Footer** - Clearly boxed with ASCII art
+2. **Section Dividers** - ▼▼▼▼▼▼ for starts / ▲▲▲▲▲▲▲ for ends
+3. **Blocks** - ██████ titles create visual separation
+4. **Tables/Code** - Boxed for clarity
+5. **Links** - Centered and emoji-highlighted
+
+**To Use**:
+1. Replace `YOUR_SCREENSHOT.jpg` with actual image URL
+2. Paste into your `README.md`
+3. Customize text if needed
+
+Want any section expanded/condensed? 😊
