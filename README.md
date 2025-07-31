@@ -1,88 +1,75 @@
-# MJ's ReactoBot - AI-Powered Interactive Adventure 🤖✨
+# MJ's ReactoBot 1.0 - The Origin of Interaction 🤖✨
 
-> 🧠💻 **WARNING: Make sure your system can handle this madness!**
-> Fun + Hacker Mode ON. Laggy PCs beware. You’ve been warned! 💀⚡
+> 🧠💻 **CAUTION: Low-end devices might feel the burn!**
+> This is where the legend began. Prepare to be immersed. ⚡
 
-![MJ's 3D Robot](https://github.com/JawadAbbasi14/mj-interactive-3d-robot-1st/blob/main/1st-3d.png)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://jawadabbasi14.github.io/mj-interactive-3d-robot-1st/">
+        <img src="https://github.com/JawadAbbasi14/mj-interactive-3d-robot-1st/blob/main/1st-3d.png" width="400" alt="ReactoBot 1.0">
+      </a>
+      <br><b>🧪 ReactoBot 1.0</b>
+    </td>
+    <td align="center">
+      <a href="https://jawadabbasi14.github.io/mj-interactive-3d-robot-2nd/">
+        <img src="https://github.com/JawadAbbasi14/mj-interactive-3d-robot-2nd/blob/main/3d-2.png" width="400" alt="ReactoBot 2.0">
+      </a>
+      <br><b>🔮 ReactoBot 2.0</b>
+    </td>
+  </tr>
+</table>
 
 [![🚀 LIVE DEMO](https://img.shields.io/badge/✨%20LIVE%20DEMO%20✨-EXPERIENCE_NOW-blueviolet?style=for-the-badge\&logo=vercel)](https://jawadabbasi14.github.io/mj-interactive-3d-robot-1st/)
-[![🔧 VIEW CODE](https://img.shields.io/badge/VIEW_CODE-GITHUB-black?style=for-the-badge\&logo=github)](https://github.com/jawadabbasi14/mj-interactive-3d-robot-1st)
-
-> Experience the power of **Google Gemini AI** + **Imagen 3.0** in a 3D interactive sci-fi adventure like no other.
+[![🔧 VIEW CODE](https://img.shields.io/badge/VIEW_CODE-GITHUB-black?style=for-the-badge\&logo=github)](https://github.com/JawadAbbasi14/mj-interactive-3d-robot-1st)
 
 ---
 
-## 🔥 Highlights
+## 🌱 What is ReactoBot 1.0?
 
-* 🤖 3D Robot Adventure – Powered by Spline
-* 🧠 AI-Generated Stories – Gemini 2.5 Flash
-* 🎨 Scene-by-scene Images – Imagen 3.0
-* 💫 Cyberpunk UI – Fully responsive
-* ⚡ Lightning-fast build – Vite + TypeScript
+**🧪 MJ’s ReactoBot 1.0** was the experiment that changed everything. Simple, clean, but a foundation for greatness.
+
+* 🧠 Early physics and logic with basic interactivity
+* 🎮 Gives users a taste of 3D control and motion
+* 🌐 Designed with first-generation Spline scenes
+
+> The robot that paved the way — version 1 wasn’t just a test, it was the spark.
+
+---
+
+## 🔍 Evolution Preview
+
+| ReactoBot 1.0  | ReactoBot 2.0                |
+| -------------- | ---------------------------- |
+| Static posture | Fully animated logic         |
+| Simple clicks  | Trigger-based immersive flow |
+| Purely visual  | Responsive FX interaction    |
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend**: React 19.1.0, TypeScript 5.7+, Tailwind CSS
-* **AI**: Gemini AI, Imagen 3.0
-* **3D**: Spline
-* **Build Tool**: Vite 6.2.0
+* 🎨 Spline (Intro-level 3D scene)
+* 💻 HTML + CSS + JavaScript
+* ⚙️ GitHub Pages for instant deployment
 
 ---
 
-## 🚀 Quick Start
+## 📸 How to Use
 
-```bash
-git clone https://github.com/jawadabbasi14/mj-interactive-3d-robot-1st.git
-cd mj-interactive-3d-robot-1st
-npm install
-npm run dev
-```
-
-### 🔐 Environment
-
-```env
-GEMINI_API_KEY=your_api_key_here
-```
+* Click any image to launch its live version instantly.
+* Left = v1 (This repo), Right = v2 (Next-gen version)
+* Desktop is highly recommended.
+* Mobile might not behave well (update WIP).
 
 ---
 
-## 🎮 How It Works
+## 🧠 MJ's Legacy Note
 
-1. Load the 3D robot scene (Spline-powered)
-2. Make story choices → Gemini AI writes the plot
-3. Imagen 3.0 generates real-time images
-4. Choices change the world — you’re in control
+> *Sometimes version 1 holds more heart than version 100. This bot was built to test the waters and dream beyond screens. Start small, imagine big.*
 
 ---
 
-## 🌟 Feature Recap
+## 🌌 MJ's Project Galaxy
 
-✅ Real-time AI Story + 3D Interaction
-✅ Responsive cyberpunk design
-✅ Seamless TypeScript architecture
-✅ Clean, mobile-friendly layout
-
----
-
-## 📱 Try it Live
-
-🎮 [**Play Now on Live Demo**](https://jawadabbasi14.github.io/mj-interactive-3d-robot-1st/)
-
----
-
-## 🤝 Contributions
-
-Fork it. Feature it. Pull Request it. Open source is open fun.
-
----
-
-## 📄 License
-
-MIT — Free to clone, modify, remix & deploy 🚀
-
----
-
-**Made with madness by MJ Abbasi** | Full-Stack Futurist & 3D Dreamer
-[LinkedIn](https://www.linkedin.com/in/mjabbasi-dev) | \[GitHub]\([https://github.com/jawad](https://github.com/jawad)
+More projects are orbiting into view. Stay awake. 🚀
