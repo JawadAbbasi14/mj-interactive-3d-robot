@@ -1,5 +1,22 @@
 # MJ's ReactoBot - AI-Powered Interactive Adventure 🤖✨
 
+```
+⚠️  [SYSTEM REQUIREMENTS] - HACKER MODE ACTIVATED 👾
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔥 HIGH-PERFORMANCE 3D EXPERIENCE AHEAD! 🔥
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ REQUIRED SPECS:
+├── 💻 PROCESSOR: Multi-core CPU (Recommended)
+├── 🌐 INTERNET: High-speed connection for 3D assets
+├── 🧠 RAM: 4GB+ for smooth 3D rendering
+└── 🎮 GPU: Dedicated graphics preferred
+
+⚠️  WARNING: 3D Robot requires significant memory & bandwidth!
+🚀 Ensure your system is ready for this premium experience!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 [![Live Demo](https://img.shields.io/badge/DEMO-LIVE-brightgreen?style=for-the-badge)](https://jawadabbasi14.github.io/mj-interactive-3d-robot-1st/)
 [![GitHub](https://img.shields.io/badge/VIEW_CODE-GITHUB-black?style=for-the-badge&logo=github)](https://github.com/jawadabbasi14/mj-interactive-3d-robot-1st)
 [![React](https://img.shields.io/badge/React-18+-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
