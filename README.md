@@ -1,21 +1,17 @@
 # MJ's ReactoBot - AI-Powered Interactive Adventure 🤖✨
 
-```
-⚠️  [SYSTEM REQUIREMENTS] - HACKER MODE ACTIVATED 👾
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔥 HIGH-PERFORMANCE 3D EXPERIENCE AHEAD! 🔥
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## ⚠️ **<span style="color: #ff0000; font-weight: 900;">SYSTEM REQUIREMENTS - HACKER MODE ACTIVATED</span>** 👾
 
-⚡ REQUIRED SPECS:
-├── 💻 PROCESSOR: Multi-core CPU (Recommended)
-├── 🌐 INTERNET: High-speed connection for 3D assets
-├── 🧠 RAM: 4GB+ for smooth 3D rendering
-└── 🎮 GPU: Dedicated graphics preferred
+**<span style="color: #ff0000; font-weight: 900;">🔥 HIGH-PERFORMANCE 3D EXPERIENCE AHEAD! 🔥</span>**
 
-⚠️  WARNING: 3D Robot requires significant memory & bandwidth!
-🚀 Ensure your system is ready for this premium experience!
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+**<span style="color: #ff0000; font-weight: 900;">⚡ REQUIRED SPECS:</span>**
+- **<span style="color: #ff0000;">💻 PROCESSOR:</span>** Multi-core CPU (Recommended)
+- **<span style="color: #ff0000;">🌐 INTERNET:</span>** High-speed connection for 3D assets  
+- **<span style="color: #ff0000;">🧠 RAM:</span>** 4GB+ for smooth 3D rendering
+- **<span style="color: #ff0000;">🎮 GPU:</span>** Dedicated graphics preferred
+
+**<span style="color: #ff0000; font-weight: 900;">⚠️ WARNING: 3D Robot requires significant memory & bandwidth!</span>**  
+**<span style="color: #ff0000; font-weight: 900;">🚀 Ensure your system is ready for this premium experience!</span>**
 
 [![Live Demo](https://img.shields.io/badge/DEMO-LIVE-brightgreen?style=for-the-badge)](https://jawadabbasi14.github.io/mj-interactive-3d-robot-1st/)
 [![GitHub](https://img.shields.io/badge/VIEW_CODE-GITHUB-black?style=for-the-badge&logo=github)](https://github.com/jawadabbasi14/mj-interactive-3d-robot-1st)
@@ -24,7 +20,8 @@
 
 > An immersive text adventure game powered by **Google's Gemini AI** with real-time image generation using **Imagen 3.0**. Every choice shapes your story and generates unique visuals.
 
-![Preview](https://i.imgur.com/your-screenshot-url.jpg) *(Add screenshot of your game interface)*
+![MJ's 3D Robot Preview](https://i.imgur.com/your-screenshot-url.jpg)
+*Interactive 3D Robot with Spline integration featuring cyberpunk aesthetics and smooth animations*
 
 ## 🔥 Key Features
 
