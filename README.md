@@ -1,99 +1,90 @@
-Here's a beautifully enhanced README.md file with stunning styling while preserving all your original links and images:
+# 🌟 MJ's ReactoBot 1.0 - The Origin of Interaction 🤖✨
 
-```markdown
-# 🚀 MJ's ReactoBot 1.0 - The Origin of Interaction 🤖✨
+> 🧠💻 **CAUTION:** Low-end devices might feel the burn!<br>
+> This is where the legend began. Prepare to be immersed. ⚡
 
-<div align="center">
-  <img src="https://img.shields.io/badge/CAUTION-Low_end_devices_might_feel_the_burn!-red?style=for-the-badge&logo=raspberrypi" alt="Caution">
-  <br>
-  <em>This is where the legend began. Prepare to be immersed.</em> ⚡
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://jawadabbasi14.github.io/mj-interactive-3d-robot-1st/">
+        <img src="https://github.com/JawadAbbasi14/mj-interactive-3d-robot-1st/blob/main/1st-3d.png" width="400" alt="ReactoBot 1.0">
+      </a>
+      <br><b>🧪 ReactoBot 1.0</b>
+    </td>
+    <td align="center">
+      <a href="https://jawadabbasi14.github.io/mj-interactive-3d-robot-2nd/">
+        <img src="https://github.com/JawadAbbasi14/mj-interactive-3d-robot-2nd/blob/main/3d-2.png" width="400" alt="ReactoBot 2.0">
+      </a>
+      <br><b>🔮 ReactoBot 2.0</b>
+    </td>
+  </tr>
+</table>
 
----
-
-## 🌌 Interactive Showcase
-
-<div align="center">
-
-| [🧪 ReactoBot 1.0](https://jawadabbasi14.github.io/mj-interactive-3d-robot-1st/) | [🔮 ReactoBot 2.0](https://jawadabbasi14.github.io/mj-interactive-3d-robot-2nd/) |
-|:---:|:---:|
-| [![ReactoBot 1.0](https://github.com/JawadAbbasi14/mj-interactive-3d-robot-1st/blob/main/1st-3d.png)](https://jawadabbasi14.github.io/mj-interactive-3d-robot-1st/) | [![ReactoBot 2.0](https://github.com/JawadAbbasi14/mj-interactive-3d-robot-2nd/blob/main/3d-2.png)](https://jawadabbasi14.github.io/mj-interactive-3d-robot-2nd/) |
-| **The Original Experiment** | **The Evolved Experience** |
-
-</div>
-
-<div align="center" style="margin: 2rem 0;">
+<p align="center">
   <a href="https://jawadabbasi14.github.io/mj-interactive-3d-robot-1st/">
-    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-EXPERIENCE_NOW-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO%20(ReactoBot%201.0)-Click%20to%20Launch-blueviolet?style=for-the-badge&logo=vercel"/>
   </a>
   <a href="https://github.com/JawadAbbasi14/mj-interactive-3d-robot-1st">
-    <img src="https://img.shields.io/badge/🔧_VIEW_CODE-GITHUB-black?style=for-the-badge&logo=github" alt="View Code">
+    <img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-GITHUB-black?style=for-the-badge&logo=github"/>
   </a>
-</div>
+</p>
 
 ---
 
-## 🌟 Project Highlights
+## 🌱 What is ReactoBot 1.0?
 
-```diff
-+ 🧪 The experiment that changed everything
-+ 🎮 Early physics and logic with basic interactivity
-+ 🌐 First-generation Spline scenes foundation
-```
+**🧪 MJ’s ReactoBot 1.0** was the experiment that changed everything. Simple, clean, but a foundation for greatness.
 
-> "Sometimes version 1 holds more heart than version 100. This bot was built to test the waters and dream beyond screens. Start small, imagine big."  
-> **— MJ's Legacy Note**
+* 🧠 Early physics and logic with basic interactivity
+* 🎮 Gives users a taste of 3D control and motion
+* 🌐 Designed with first-generation Spline scenes
 
----
-
-## 🔍 Evolution Comparison
-
-| Feature          | ReactoBot 1.0                  | ReactoBot 2.0                  |
-|------------------|--------------------------------|--------------------------------|
-| **Animation**    | Static posture                | Fully animated logic           |
-| **Interaction**  | Simple clicks                 | Trigger-based immersive flow   |
-| **Effects**      | Purely visual                 | Responsive FX interaction      |
+> The robot that paved the way — version 1 wasn’t just a test, it was the spark.
 
 ---
 
-## ⚙️ Tech Stack
+## 🔍 Evolution Preview
 
-<div align="center">
+| ReactoBot 1.0  | ReactoBot 2.0                |
+| -------------- | ---------------------------- |
+| Static posture | Fully animated logic         |
+| Simple clicks  | Trigger-based immersive flow |
+| Purely visual  | Responsive FX interaction    |
 
-| Category       | Technologies                  |
-|---------------|-------------------------------|
-| **3D Design** | 🎨 Spline (Intro-level 3D)    |
-| **Frontend**  | 💻 HTML + CSS + JavaScript    |
-| **Hosting**   | ⚙️ GitHub Pages              |
-
-</div>
+Click each bot image above to open its live experience!
 
 ---
 
-## 📱 Usage Instructions
+## 🛠️ Tech Stack
 
-1. Click any image or badge to launch live versions
-2. Desktop experience recommended 💻
-3. Mobile support is experimental 📱 (update WIP)
+* 🎨 [Spline](https://spline.design) (Intro-level 3D scene building)
+* 💻 HTML + CSS + JavaScript
+* 🚀 Deployed via GitHub Pages
 
 ---
 
-## 🌠 MJ's Project Galaxy
+## 🎮 How to Use
 
-More cosmic creations are coming... stay tuned! 🚀
+* Click on either 3D image above to launch the live version.
+* Left bot = this repo (v1), Right bot = next-gen (v2).
+* Experience best on desktop — mobile optimization is in progress.
 
-<div align="center" style="margin-top: 2rem;">
-  <img src="https://img.shields.io/badge/✨_Next_Project-Orbiting_into_view_soon-purple?style=for-the-badge" alt="Coming Soon">
-</div>
-```
+---
 
-This enhanced version features:
-- Beautiful badges and visual elements
-- Improved layout and organization
-- Colorful diff-style highlights
-- Centered elements for better visual flow
-- Emoji icons for better scannability
-- Preserved all your original links and images
-- Added subtle sci-fi styling while keeping it professional
+## 🧠 MJ's Legacy Note
 
-The markdown will render beautifully on GitHub while maintaining all functionality.
+> *Sometimes version 1 holds more heart than version 100.*
+>
+> *This bot was crafted to test the waters — not for perfection but for ignition.*
+>
+> *Start small. Imagine bigger. Always build forward.*
+
+---
+
+## 🌌 MJ's Project Galaxy
+
+> More ReactoBots and beyond are orbiting into view. Stay awake. Stay inspired. 🚀
+
+---
+
+🔗 **Explore ReactoBot 2.0 here** → [Click for ReactoBot 2.0 Live Version](https://jawadabbasi14.github.io/mj-interactive-3d-robot-2nd/)
