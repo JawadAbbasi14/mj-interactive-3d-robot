@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MJ's 3D Robot Showcase</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #0a0e17;
+      color: #fff;
+      overflow-x: hidden;
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    /* Header styling */
+    header {
+      text-align: center;
+      padding: 3rem 1rem;
+      position: relative;
+      overflow: hidden;
+      background: rgba(10, 14, 23, 0.9);
+      border-bottom: 1px solid rgba(0, 247, 255, 0.3);
+      margin-bottom: 2rem;
+    }
+    
+    .logo {
+      font-family: 'Arial Black', sans-serif;
+      font-size: 3.5rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 4px;
+      color: #00f7ff;
+      margin-bottom: 0.5rem;
+      position: relative;
+      display: inline-block;
+    }
+    
+    .logo span {
+      color: #ff00e6;
+    }
+    
+    .subtitle {
+      font-size: 1.2rem;
+      color: rgba(255, 255, 255, 0.8);
+      max-width: 600px;
+      margin: 0 auto;
+      letter-spacing: 1px;
+      font-weight: 300;
+    }
+    
+    .highlight {
+      color: #00f7ff;
+      font-weight: bold;
+    }
+    
+    /* Robot section */
+    .robot-section {
+      margin: 3rem 0;
+      padding: 20px;
+      border-radius: 15px;
+      position: relative;
+      background: rgba(12, 26, 58, 0.4);
+      border: 1px solid rgba(0, 247, 255, 0.2);
+      overflow: hidden;
+    }
+    
+    .robot-container {
+      position: relative;
+      border-radius: 15px;
+      overflow: hidden;
+      box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.8);
+      height: 600px;
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px solid rgba(0, 247, 255, 0.1);
+    }
+    
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+    
+    /* MJ Promo Section */
+    .promo-section {
+      background: rgba(12, 26, 58, 0.6);
+      border-radius: 15px;
+      padding: 40px;
+      margin: 3rem 0;
+      text-align: center;
+      border: 1px solid rgba(0, 247, 255, 0.2);
+    }
+    
+    .promo-title {
+      font-size: 2.5rem;
+      margin-bottom: 1.5rem;
+      color: #00f7ff;
+      letter-spacing: 2px;
+    }
+    
+    .promo-content {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 30px;
+      margin-top: 30px;
+    }
+    
+    .promo-text {
+      flex: 1;
+      min-width: 300px;
+      text-align: left;
+      padding: 20px;
+    }
+    
+    .promo-text h3 {
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+      color: #ff00e6;
+    }
+    
+    .promo-text p {
+      margin-bottom: 1rem;
+      color: rgba(255, 255, 255, 0.85);
+    }
+    
+    .promo-image {
+      flex: 1;
+      min-width: 300px;
+      background: linear-gradient(45deg, #0c1a3a, #6a00ff);
+      border-radius: 10px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .promo-image::before {
+      content: 'MJ';
+      position: absolute;
+      font-size: 15rem;
+      font-weight: 900;
+      color: rgba(255, 255, 255, 0.05);
+      z-index: 0;
+    }
+    
+    .promo-image .icon {
+      font-size: 8rem;
+      color: #00f7ff;
+      z-index: 1;
+      text-shadow: 0 0 20px rgba(0, 247, 255, 0.5);
+    }
+    
+    /* Contact Section */
+    .contact-section {
+      text-align: center;
+      margin: 3rem 0;
+      padding: 40px;
+      border-radius: 15px;
+      background: rgba(12, 26, 58, 0.6);
+      border: 1px solid rgba(0, 247, 255, 0.2);
+    }
+    
+    .contact-title {
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+      color: #00f7ff;
+      letter-spacing: 2px;
+    }
+    
+    .contact-text {
+      max-width: 600px;
+      margin: 0 auto 2rem;
+      color: rgba(255, 255, 255, 0.85);
+    }
+    
+    .linkedin-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 15px 30px;
+      background: linear-gradient(45deg, #0077b5, #00a0dc);
+      color: white;
+      border-radius: 50px;
+      font-weight: bold;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      box-shadow: 0 5px 15px rgba(0, 119, 181, 0.4);
+      border: none;
+      cursor: pointer;
+      font-size: 1.1rem;
+      margin-top: 1rem;
+    }
+    
+    .linkedin-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 20px rgba(0, 119, 181, 0.6);
+    }
+    
+    .linkedin-btn i {
+      margin-right: 10px;
+      font-size: 1.3rem;
+    }
+    
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      margin-top: 3rem;
+      background: rgba(10, 14, 23, 0.9);
+      border-top: 1px solid rgba(0, 247, 255, 0.3);
+      position: relative;
+    }
+    
+    .footer-content {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    
+    .signature {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      color: #00f7ff;
+    }
+    
+    .copyright {
+      color: rgba(255, 255, 255, 0.7);
+      margin-top: 1rem;
+    }
+    
+    @media (max-width: 768px) {
+      .logo {
+        font-size: 2.5rem;
+      }
+      
+      .subtitle {
+        font-size: 1rem;
+      }
+      
+      .robot-container {
+        height: 400px;
+      }
+      
+      .promo-title, .contact-title {
+        font-size: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1 class="logo">MJ <span>ROBOTICS</span></h1>
+      <p class="subtitle">A revolutionary 3D creation by <span class="highlight">MJ Abbasi</span> - Expert in 3D & Fullstack Development</p>
+    </header>
+    
+    <main>
+      <section class="robot-section">
+        <div class="robot-container">
+          <iframe src="https://my.spline.design/robotfollowcursorforlandingpage-XNoDtzuzCmhXcmL3EbYSoub6/"></iframe>
+        </div>
+      </section>
+      
+      <section class="promo-section">
+        <h2 class="promo-title">MJ ABBASI</h2>
+        <div class="promo-content">
+          <div class="promo-text">
+            <h3>3D & Fullstack Developer</h3>
+            <p>MJ Abbasi is a visionary developer specializing in creating immersive 3D experiences and robust web applications. With expertise spanning both frontend and backend development, MJ crafts digital solutions that push the boundaries of technology and design.</p>
+            <p>This interactive 3D robot showcases MJ's technical skills in 3D modeling, animation, and web integration. Each movement is precisely calculated to respond to user interaction, demonstrating a seamless blend of creativity and programming expertise.</p>
+            <p>MJ's work represents the future of interactive web experiences, where technology and art converge to create something truly extraordinary.</p>
+          </div>
+          <div class="promo-image">
+            <i class="fas fa-user-astronaut icon"></i>
+          </div>
+        </div>
+      </section>
+      
+      <section class="contact-section">
+        <h2 class="contact-title">GET IN TOUCH</h2>
+        <p class="contact-text">
+          Interested in MJ's work? Connect on LinkedIn to discuss projects, opportunities, or collaborations in 3D development and web technologies.
+        </p>
+        <a href="https://www.linkedin.com/in/mjabbasi-dev" target="_blank" class="linkedin-btn">
+          <i class="fab fa-linkedin-in"></i> Connect with MJ on LinkedIn
+        </a>
+      </section>
+    </main>
+    
+    <footer>
+      <div class="footer-content">
+        <div class="signature">MJ ABBASI</div>
+        <p>3D Developer & Fullstack Engineer</p>
+        <p class="copyright">© 2025 MJ Abbasi | Revolutionizing Digital Experiences</p>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
